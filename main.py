@@ -1,4 +1,4 @@
 print("hello world")
 print("hello world again")
-print("print na masteru")
+print("nesto novo")
 print("izmena")
